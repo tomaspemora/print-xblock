@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+print_xblock.egg-info/PKG-INFO
+print_xblock.egg-info/SOURCES.txt
+print_xblock.egg-info/dependency_links.txt
+print_xblock.egg-info/entry_points.txt
+print_xblock.egg-info/requires.txt
+print_xblock.egg-info/top_level.txt
+printxblock/__init__.py
+printxblock/printxblock.py
+printxblock/static/README.txt
+printxblock/static/css/printxblock.css
+printxblock/static/html/printxblock.html
+printxblock/static/js/src/printxblock.js
